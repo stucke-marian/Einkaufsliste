@@ -1,6 +1,7 @@
 # Lebenslauf  
+![ein Bild](https://github.com/stucke-marian/Einkaufsliste/blob/lebenslaufProfilbild/person.jpg?raw=true)  
 ## *Marian Stucke*  
-###Persoenliche daten  
+### Persoenliche daten  
 Geboren: 01.01.2001  
 Geboren in: Rottweil  
 Alter: 19  
